@@ -19,6 +19,7 @@ The system tracks:
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Project Structure](#project-structure)
 - [System Architecture](#system-architecture)
 - [Creating Issues](#creating-issues)
 - [Contributing](#contributing)
