@@ -83,6 +83,15 @@ The system currently uses a simple username/password authentication system with 
 
 The application includes a test mode that simulates multiple pickup requests across different users and displays the resulting allocation of trucks and request statuses.
 
+## Project Structure
+
+```plaintext
+└── mugabibenjamin-waste-management/
+    ├── README.md                       # Project documentation and usage guide
+    ├── LICENSE                         # Licensing details for the project
+    └── WasteCollectionSystem.java      # Main Java application file for the waste collection system
+```
+
 ## Features
 
 - **User Authentication**: Secure login system
